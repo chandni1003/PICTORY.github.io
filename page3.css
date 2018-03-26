@@ -1,0 +1,131 @@
+html, body
+{
+	background-color: black;
+	background-image: url("bgc3.jpg");
+	background-repeat: no-repeat;
+	height: 100%
+	width: 100%;
+	background-size: cover;
+	background-position:
+}
+.navbar-right
+{
+	margin-right: 10px;
+}
+.navbar
+{
+	background-color: rgba(50,50,50,0.5);
+	border-color: white;
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+}
+.active1
+{
+	font-weight: bolder;	
+}
+span
+{
+	color: white;
+	font-style: bold;
+	font-size: 30px;
+}
+span:hover
+{
+	font-weight: bolder;
+}
+#main
+{
+	font-size: 40px;
+	font-family: 'Permanent Marker', cursive;
+}
+.contact
+{
+/*	margin-top: 80px;*/
+	width: 50%;
+	/*height: 50%*/
+	margin: 20px;
+	padding-left: 30px;
+	padding-top: 0px;
+	font-family: 'Shadows Into Light', cursive;
+	color: black;
+	font-weight: 30px;
+	font-size: 20px;
+}
+h2
+{
+	font-family: 'Shadows Into Light', cursive;
+	color: black;
+	padding-left: 20px;
+	padding-top: 20px;
+	position: center;
+	font-weight: 30px;
+}
+.btn:hover, .btn:visited
+{
+	font-weight: bolder;
+	background-color: black;
+	border-color: black;
+	color: white;
+}
+.btn
+{
+	background-color: black;
+	border-color: black;
+	color: white;
+}
+.modal-body p
+{
+	align-content: center;
+}
+.form-control
+{
+	border-color: white;
+}
+
+.page-footer
+{
+	background-color: rgba(50,50,50,0.3);
+	/*margin-top: 150px;*/
+}
+.page-footer .col-md-6
+{
+	/*background-color: #101010;*/
+}
+.page-footer h1
+{
+	font-family: 'Permanent Marker', cursive;
+	color: white;
+}
+.page-footer h4
+{
+	font-family: 'Shadows Into Light', cursive;
+	color: white;
+}
+.page-footer .map
+{
+	font-family: 'Merriweather Sans', sans-serif;
+	color: white;
+}
+.page-footer .map a
+{
+	color: white;
+}
+.social-icon {
+    background-color: 	#202020;
+    margin-top: 10px;
+    padding-right: 20px;
+    text-align: center;
+}
+.social-icon>a{font-size:20px;text-decoration:none;padding: 5px;}
+.social-icon a:nth-of-type(1){color:#4E71A8;}
+.social-icon a:nth-of-type(2){color:#3FA1DA;}
+.social-icon a:nth-of-type(3){color:#E3411F;}
+.social-icon a:nth-of-type(4){color:#CA3737;}
+.social-icon a:nth-of-type(5){color:white;}
+
+.page-footer .footer-copyright
+{
+	background-color: #303030;
+	font-family: 'Merriweather Sans', sans-serif;
+	color: white;
+}
