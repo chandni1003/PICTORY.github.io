@@ -3,9 +3,7 @@ Name of creator: Chandni Raghuraman
 Contact: +919833264811
 Email ID: chand1003@gmail.com
 
-To: websites.co.in
-
-Topic: Frontend Project for Internship Opportunity (Summer 2018)
+FrontEnd pages project
 Theme Chosen: Photography Blog
 
 index.html - Home Page
